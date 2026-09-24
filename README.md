@@ -6,7 +6,7 @@
 
 *reverse engineered — cli & web, no ads, no tracking*
 
-**live:** [am.nexranode.my.id](https://am.nexranode.my.id)
+**live:** [alightmotion-app.vercel.app](https://alightmotion-app.vercel.app)
 
 <img src="https://img.shields.io/badge/status-unofficial-orange" alt="">
 <img src="https://img.shields.io/badge/reverse--engineering-deep-red" alt="">
